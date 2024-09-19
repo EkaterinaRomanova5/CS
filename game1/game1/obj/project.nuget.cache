@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6mc0nhRB3JJTKdJqtKijudZ+HRnQaMbp4zWAFSYLxJKTj+d2EKNV9JEcrLAYkpDgpfTvYmzXb/gXcgW6DfGnw==",
+  "success": true,
+  "projectFilePath": "D:\\языки программирования\\game1\\game1\\game1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Екатерина\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Екатерина\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
